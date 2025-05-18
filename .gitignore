@@ -1,0 +1,16 @@
+# ignore all out of project
+../*
+
+# only that folder and subs
+!*/
+
+# ignore trash
+build/
+*.user
+*.exe
+*.dll
+*.log
+*.csv
+*.txt
+*.ini
+desktop.ini
